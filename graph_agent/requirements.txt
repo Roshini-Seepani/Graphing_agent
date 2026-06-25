@@ -1,0 +1,9 @@
+google-genai
+openai
+matplotlib
+sympy
+scipy
+pandas
+streamlit
+python-dotenv
+pillow
